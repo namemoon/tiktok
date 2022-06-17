@@ -1,4 +1,4 @@
-# 🥞 Tiktok Downloader Massal
+# Tiktok Downloader Massal
 
 Script sederhana untuk mengunduh video TikTok tanpa watermark secara massal tanpa watermark.
 
@@ -10,8 +10,17 @@ Script sederhana untuk mengunduh video TikTok tanpa watermark secara massal tanp
 
 
 ## Quick Start
+Clone repository
+```sh
+git clone https://github.com/namemoon/tiktok.git
+```
+
+```sh
+cd tiktok
+```
 
 
+Installtion
 ```sh
 npm i puppeteer
 ```
@@ -32,4 +41,5 @@ node allvideosuser https://www.tiktok.com/@444.fel
 ```
 
 Kalian bisa mengganti @444.fel dengan username yang kalian mau untuk kalian download secara massal.
+
 Semoga bermanfaat!
