@@ -31,7 +31,6 @@ npm install puppeteer puppeteer-extra
 
 ```sh
 npm install puppeteer-extra-plugin-stealth puppeteer-extra-plugin-adblocker
-build with production mode
 ```
 
 ## How to use
